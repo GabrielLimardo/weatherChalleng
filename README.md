@@ -1,5 +1,9 @@
 Weather Challenge
 
+![Captura de pantalla 2022-05-22 052757](https://user-images.githubusercontent.com/60992367/169685814-a124fdf7-37d2-444d-8931-ecdfccce0619.png)
+![Captura de pantalla 2022-05-22 052753](https://user-images.githubusercontent.com/60992367/169685816-b7ef6928-7301-4976-81b0-2f92bc61b70a.png)
+
+
 <h3>INSTALACÍON: </h3>
 
 `git clone https://github.com/GabrielLimardo/weatherChalleng.git`<br>
