@@ -3,7 +3,7 @@ Weather Challenge
 
 INSTALACÍON:
 
-git clone <br>
+git clone https://github.com/GabrielLimardo/weatherChalleng.git<br>
 `cd weatherChalleng` <br>
 asegurarse de tener el archivo `.env` con la siguiente informacion: <br>
 ejecutar los comandos composer update y composer install <br>
