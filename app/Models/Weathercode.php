@@ -15,4 +15,5 @@ class Weathercode extends Model
         'Condition'
 
     ];
+    public $timestamps = false;
 }

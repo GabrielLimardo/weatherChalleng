@@ -14,6 +14,8 @@ class Climate extends Model
         'id',
         'climate',
         'city',
+        'temperature',
+        'weather_icons',
         'created_at',
         'updated_at'
 

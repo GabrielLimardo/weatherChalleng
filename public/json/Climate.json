@@ -1,0 +1,113 @@
+{
+    "Climate":[{
+            "climate":"143",
+            "city":"Buenos Aires",
+            "temperature":"13",
+            "weather_icons":"https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png",
+            "created_at":"2022-05-15 00:00:00",
+            "updated_at":"2022-05-15 00:00:00"
+        },
+        {
+            "climate":"116",
+            "city":"New York",
+            "temperature":"13",
+            "weather_icons":"https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png",
+            "created_at":"2022-05-15 00:00:00",
+            "updated_at":"2022-05-15 00:00:00"
+        }
+
+    ],
+    "Weathercode":[{
+        "id":"113",
+        "Condition":"Clear/Sunny"
+    },
+    {
+        "id":"116",
+        "Condition":"Partly Cloudy"
+    },
+    {
+        "id":"119",
+        "Condition":"Cloudy"
+    },
+    {
+        "id":"122",
+        "Condition":"Overcast"
+    },
+    {
+        "id":"143",
+        "Condition":"Mist"
+    },
+    {
+        "id":"176",
+        "Condition":"Patchy rain nearby"
+    },
+    {
+        "id":"179",
+        "Condition":"Patchy snow nearby"
+    },
+    {
+        "id":"182",
+        "Condition":"Patchy sleet nearby"
+    },
+    {
+        "id":"185",
+        "Condition":"Patchy freezing drizzle nearby"
+    },
+    {
+        "id":"200",
+        "Condition":"Thundery outbreaks in nearby"
+    },
+    {
+        "id":"227",
+        "Condition":"Blowing snow"
+    },
+    {
+        "id":"230",
+        "Condition":"Blizzard"
+    },
+    {
+        "id":"248",
+        "Condition":"Fog"
+    },
+    {
+        "id":"260",
+        "Condition":"Freezing fog"
+    },
+    {
+        "id":"263",
+        "Condition":"Patchy light drizzle"
+    },
+    {
+        "id":"281",
+        "Condition":"Freezing drizzle"
+    },
+    {
+        "id":"284",
+        "Condition":"Heavy freezing drizzle"
+    },
+    {
+        "id":"296",
+        "Condition":"Light rain"
+    },
+    {
+        "id":"299",
+        "Condition":"Moderate rain at times"
+    },
+    {
+        "id":"302",
+        "Condition":"Moderate rain"
+    },
+    {
+        "id":"305",
+        "Condition":"Heavy rain at times"
+    },
+    {
+        "id":"308",
+        "Condition":"Heavy rainn"
+    },
+    {
+        "id":"311",
+        "Condition":"Light freezing rain"
+    }
+]
+}
